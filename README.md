@@ -1,8 +1,8 @@
-#  Raquel's Portfolio
+# 👋🏼 Raquel's Portfolio
 
 Welcome to my data portfolio! Here, I document all of my projects
 
-## Table of Contents
+## 🔎 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
