@@ -1,17 +1,13 @@
-# Raquel's Portfolio
+#  Raquel's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document all of my projects
 
 ## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-
-# Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+- [Google Earth Engine](#google-earth-engine)
+- [Stata](#stata)
 
 ***
 
@@ -36,4 +32,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+
+# Google Earth Engine
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+
+# Stata
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
 
