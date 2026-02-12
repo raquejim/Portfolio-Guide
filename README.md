@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |  
+| ✈️ [Airplane Ticket Reservation System](https://github.com/tinakralimarkova1/Airline_Ticket_Reservation_System) | Data analysis, data transformation | Web application built with Flask and MySQL for managing airline ticket reservations. Created as a course project for Databases (CSCI-SHU 213) at NYU Shanghai, the system demonstrates relational database design, backend data handling, SQL joins and aggregates, and role-based access control. |  
 
 ***
 
@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+| 📲 ["GuideMe" Capstone Project](https://github.com/tinakralimarkova1/GuideMe) | Machine Learning, Natural Language Processing | Android application designed to help elderly adults and first-time smartphone users learn essential mobile skills through guided, interactive simulations. Within the app there's voice and text search, where users can get recommended lessons based on their query. This feature was developed by training a convolutional network that was then transferred to Android Studio through TensorFlow Lite. | pandas, numpy, tensorflow, matplotlib |
 
 ***
 
@@ -31,7 +31,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| 📈 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
 
 # Google Earth Engine
 
